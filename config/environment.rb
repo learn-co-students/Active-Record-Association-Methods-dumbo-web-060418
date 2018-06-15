@@ -1,6 +1,7 @@
 require 'bundler/setup'
 Bundler.require
 
+require "pry"
 require 'active_record'
 require 'rake'
 
